@@ -1,0 +1,5 @@
+{
+  "extends": "@alloyteam/stylelint-config-standard",
+  "defaultSeverity": "warning"
+}
+
